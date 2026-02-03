@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm Zainab 🛠️
 
-<!--
-**Zainab118-dev/Zainab118-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a *Computer Systems Engineering Student* focused on building efficient, scalable systems and cross-platform applications. I believe that practical code speaks louder than a transcript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Skills
+
+* *Languages:* Python, C++, Java, JavaScript
+* *Frameworks:* Flutter, React.js
+* *Engineering Interests:* Embedded Systems, Software Architecture, Mobile Dev
+
+---
+
+### 🚀 Key Technical Implementations (Academic)
+
+* *Arithmetic Calculator:* Developed a command-line tool built in C++ that performs basic arithmetic operations (addition, subtraction, multiplication, and division). This project demonstrates a strong grasp of control flow and modular programming in C++ *. 
+* *Simple Banking System:* "Built a console-based banking application developed in Java using Object-Oriented Programming (OOP) principles. Features include secure account creation, deposits, withdrawals, and balance inquiries, showcasing encapsulation and data abstraction." using *Java* focusing on OOP principles.
+* *Mobile Exploration:* Experimenting with UI/UX components in *Flutter*.
+
+---
+
+### 📫 Connect with me:
+(https://www.linkedin.com/in/zainab-mughal-84867825b?utm_source=share_via&utm_content=profile&utm_medium=member_android)) 
